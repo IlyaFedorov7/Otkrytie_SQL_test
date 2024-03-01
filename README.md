@@ -1,0 +1,1 @@
+# Otkrytie_SQL_test
